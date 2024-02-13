@@ -13,7 +13,7 @@ class Footer extends React.Component {
   render() {
     return (
       <Box className="footer">
-        <Text className="footerItem">Impresum</Text>
+        <Text className="footerItem">Impressum</Text>
       </Box>
     );
   }
